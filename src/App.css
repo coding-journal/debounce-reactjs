@@ -1,0 +1,23 @@
+.container{
+  margin: 4rem auto;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 2rem 2rem;
+  width: 50vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+
+.search{
+  border-radius: 5px;
+  border: 1px solid #2b2b2b;
+  padding: 0.4rem 1rem;
+}
+
+.user-card{
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 0rem 1rem;
+}
